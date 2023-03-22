@@ -30,3 +30,29 @@ BAKER, BEACON HILL, northern regions of INDUSTRIAL DISTRICT, DUNLAP and RAINIER 
 considered as crime hotspots with 99% confidence. Hence, the police could be instructed to pay special attention in these 
 areas. COLUMBIA CITY is a neighborhood that has all the risk factors for assaults (Bars, Marijuana, Narcotic retail stores
 and Parks) and the future crime can be predicted at these locations.
+
+
+# BURGLARIES IN NORTH SEATTLE
+
+This bulletin is intended to communicate with a general public audience, about the Burglaries that occurred in North 
+Seattle, in the year 2018. A total of 1259 Burglary calls were reported in that year. The below report illustrates the 
+Concentration of Burglaries with respect to beats, the impact of Marijuana Retail Stores on Burglaries, Location Quotient
+analysis and identifying the Hotspots of crime.
+
+![image](https://user-images.githubusercontent.com/114395443/226858777-90954d34-d00f-4e82-b01a-b19175a41024.png)
+
+![image](https://user-images.githubusercontent.com/114395443/226858846-20f8bac1-102e-4064-a8c5-c8a545b575d1.png)
+
+![image](https://user-images.githubusercontent.com/114395443/226858986-44340199-fb0c-4461-84fc-1d8d20e16637.png)
+
+ADVICES:
+People residing in the above hotspot regions are advised to lock all the doors and windows before leaving the house or 
+going to bed. Also, make sure that the garage doors are locked. Most importantly, do not allow daily newspapers or mail 
+deliveries to build up at the doorsteps or the front gate while being away from the house, especially while going on a 
+vacation for an extended time. It is always advisable to not share vacation plans over social media platforms.
+
+
+# REFERENCES
+https://www.seattle.gov/police/information-and-data/data/crime-dashboard
+
+https://www.google.com/maps
