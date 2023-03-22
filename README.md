@@ -46,6 +46,7 @@ analysis and identifying the Hotspots of crime.
 ![image](https://user-images.githubusercontent.com/114395443/226858986-44340199-fb0c-4461-84fc-1d8d20e16637.png)
 
 ADVICES:
+
 People residing in the above hotspot regions are advised to lock all the doors and windows before leaving the house or 
 going to bed. Also, make sure that the garage doors are locked. Most importantly, do not allow daily newspapers or mail 
 deliveries to build up at the doorsteps or the front gate while being away from the house, especially while going on a 
